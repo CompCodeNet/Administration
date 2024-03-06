@@ -1,0 +1,93 @@
+﻿Copyright [Year] [Copyright Holder Name]
+https://[Optional Link]
+
+CODE PAGES OPEN BUSINESS LICENSE
+
+1. DEFINITIONS
+
+1a. License Registration Code: A per-user Authorization ID that grants rights
+under this license (see Section 4).
+
+1b. The Original Software: The software provided to you under this license
+agreement.
+
+1c. Your Revision(s) of The Software: The Original Software with your addition
+of at least one significant feature and optionally, any other of your
+modifications to The Original Software, including transcriptions.
+
+1d. Transcription: An indirect copy or duplication of The Original Software in
+whole or in part, that is made by writing code based on forms, models, and / or
+ideas of the original code.
+
+2. AGREEMENT
+
+This license is an agreement between you and [Licensor Name]. All rights granted
+herein are applicable only if you abide by this license in full.
+
+The terms of this license apply to business and personal purposes.
+
+Upon registration, this license is permanent and irrevocable.
+
+3. FREE TRIAL USE
+
+This Section 3 applies if you do not have a License Registration Code (see 1a).
+
+You may use or modify The Original Software on one or more computers for
+evaluation purposes only.
+
+Transcriptions (see 1d) are also allowed only for evaluation purposes. You may
+not distribute transcriptions and the like.
+
+You may not distribute The Original Software.
+
+You may not distribute Your Revision(s) of The Software.
+
+4. REGISTERED USE
+
+This Section 4 applies if you have a License Registration Code (see 1a).
+
+You may use or modify The Original Software on one or more computers.
+
+You may not distribute The Original Software.
+
+4a. You May Distribute Your Revision(s) of The Software
+
+    If, and only if, you add a significant feature to The Original Software
+    (see 1c), then you may distribute Your Revision(s) of The Software. 
+
+    You may distribute the executable forms, such as program(s) and libraries,
+    of Your Revision(s) of The Software.
+
+    You may distribute the source code of Your Revision(s) of The Software. This
+    license does not require you to distribute the source code of Your
+    Revision(s) of The Software.
+
+4b. You May License Your Revision(s) of The Software With your Terms
+
+    You may use your license terms and copyright notice(s) with your
+    distributions of Your Revision(s) of The Software.
+
+4c. All Distributions Must Include This License in Full
+
+    All distributions must include this license in full. For example, you may
+    include this license among your third party licenses.
+
+4d. No Additional Rights
+
+    This license grants no rights beyond those that are expressly stated herein.
+    No additional rights may be inferred.
+
+5. TRANSFER
+
+A License Registration Code may be used only by one individual until it is
+transferred to another individual, and it may be transferred only to an
+individual who agrees to this license. After any transfer, you must permanently
+delete all of your copies of The Original Software and any modifications to it,
+except for your additions that are distinct from The Original Software.
+
+6. NO LIABILITY
+
+Under no circumstances, shall the authors, copyright holders, or [Licensor Name]
+be liable for any consequences whatsoever associated with any form of usage of
+this software, including derivations of it. This applies to all forms of the
+software including programs and source code.
