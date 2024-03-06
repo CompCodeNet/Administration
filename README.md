@@ -1,2 +1,4 @@
 # Administration
-Publicly Available Administrative Documents and Templates such as Licenses
+This repository contains administrative documents and templates such as licenses.
+
+
