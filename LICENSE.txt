@@ -5,6 +5,8 @@ License for License Files :-)
 You may copy and use these licenses freely, including modification for business
 or personal purposes.
 
-Under no circumstances shall McPherran or Gregory McPherran be held liable for
-any consequences whatsoever for use of these licenses.
+Under no circumstances shall the authors, copyright holders, McPherran or 
+Gregory McPherran be held liable for any consequences whatsoever for use of
+these licenses.
+
 
