@@ -35,8 +35,8 @@ IF YOU DO NOT HAVE A LICENSE REGISTRATION (see 1a), then this Section 3 applies.
 You may use or modify The Original Software on one or more computers for
 evaluation purposes only.
 
-Transcriptions (see 1d) are allowed for evaluation purposes only and may be used
-only to modify and / or add to The Original Software (see 1c and 1d).
+Transcriptions are allowed for evaluation purposes only and may be used only to
+modify and / or add to The Original Software (see 1c and 1d).
 
 You may not distribute The Original Software.
 
