@@ -21,7 +21,7 @@ ideas of the original code.
 
 2. AGREEMENT
 
-This license is an agreement between you and McPherran. All rights granted
+This license is an agreement between you and [Licensor Name]. All rights granted
 herein are applicable only if you abide by this license in full.
 
 The terms of this license apply to business and personal purposes.
