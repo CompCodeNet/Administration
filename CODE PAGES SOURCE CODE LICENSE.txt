@@ -36,7 +36,7 @@ You may use or modify The Original Software on one or more computers for
 evaluation purposes only.
 
 Transcriptions are allowed for evaluation purposes only and may be used only to
-modify and / or add to The Original Software (see 1c and 1d).
+revise The Original Software (see 1c and 1d).
 
 You may not distribute The Original Software.
 
