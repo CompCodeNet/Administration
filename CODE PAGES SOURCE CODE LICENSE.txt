@@ -5,15 +5,14 @@ CODE PAGES SOURCE CODE LICENSE
 
 1. DEFINITIONS
 
-1a. License Registration: A per-user Authorization ID that grants rights under
-this license.
+1a. License Registration: A per-user authorization ID that grants rights with
+respect to this license.
 
-1b. The Original Software: The software provided to you under this license
-agreement.
+1b. The Original Software: The software as provided to you.
 
 1c. Your Revision(s) of The Software: The Original Software with your addition
 of at least one significant feature and optionally, any other of your
-modifications to The Original Software, including transcriptions.
+modifications to The Original Software, including transcriptions (see 1d).
 
 1d. Transcription: An indirect copy or duplication of The Original Software in
 whole or in part, that is made by writing code based on forms, models, and / or
@@ -21,12 +20,9 @@ ideas of the original code.
 
 2. AGREEMENT
 
-This license is an agreement between you and [Licensor Name]. All rights granted
-herein are applicable only if you abide by this license in full.
+All rights stated herein are applicable only if you abide by this license.
 
-The terms of this license apply to business and personal purposes.
-
-Upon registration, this license is permanent and irrevocable.
+Upon registration, this license is permanent.
 
 3. FREE TRIAL USE
 
@@ -46,9 +42,13 @@ You may not distribute Your Revision(s) of The Software.
 
 IF YOU HAVE A LICENSE REGISTRATION (see 1a), then this Section 4 applies.
 
-You may use or modify The Original Software on one or more computers.
+The rights granted herein may be used for business and personal purposes.
 
 You may not distribute The Original Software.
+
+You may use or modify The Original Software on one or more computers.
+
+Transcriptions may be used only to revise The Original Software (see 1c and 1d).
 
 4a. You May Distribute Your Revision(s) of The Software
 
@@ -66,8 +66,13 @@ You may not distribute The Original Software.
 
     You may use your license terms and copyright notice(s) with your
     distributions of Your Revision(s) of The Software.
+    
+    You may add your copyright notices to source code files that you modify.
 
-4c. All Distributions Must Include This License in Full
+    You must retain original copyright notices with The Original Softare,
+    including with copies of it in part or in whole.
+
+4c. All Distributions Must Include This License
 
     All distributions must include this license in full. For example, you may
     include this license among your third party licenses.
