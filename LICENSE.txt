@@ -2,11 +2,9 @@ Copyright 2024 McPherran
 
 License for License Files
 
-You may copy and use these licenses freely, including modification for business
-or personal purposes.
+If you agree to all terms herein, then you may copy and use these licenses
+freely, including modification for business or personal purposes.
 
 Under no circumstances shall the authors, copyright holders, McPherran or 
 Gregory McPherran be held liable for any consequences whatsoever for use of
 these licenses.
-
-
