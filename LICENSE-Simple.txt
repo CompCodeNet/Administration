@@ -1,0 +1,24 @@
+Copyright 2024 McPherran
+
+AGREEMENT
+
+By any use of this software, including source code and/or programs, you agree
+to the terms of this license as stated herein.
+
+REQUIREMENTS
+
+If you use the software as granted herein, you agree to include this license
+with all copies of the software, including those that you distribute, e.g., as
+one of your third party licenses.
+
+USAGE GRANTS
+
+You may copy, modify, and / or distribute this software, for personal and
+business purposes.
+
+NO LIABILITY
+
+Under no circumstances, shall McPherran, McPherran associates who work with this
+software in any way, the author(s), and/or copyright holder(s), be liable for
+any consequences whatsoever associated with any form of usage of this software.
+This applies to all forms of the software, including source code and programs.
