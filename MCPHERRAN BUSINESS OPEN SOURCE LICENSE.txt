@@ -1,7 +1,7 @@
-﻿Copyright 2025 McPherran
-Sales@McPherranWeb.com
+﻿MCPHERRAN BUSINESS OPEN SOURCE LICENSE
 
-MCPHERRAN BUSINESS OPEN SOURCE LICENSE
+Copyright 2025 McPherran
+Sales@McPherranWeb.com
 
 1. DEFINITIONS
  
