@@ -1,0 +1,71 @@
+﻿Copyright 2025 [Name]
+[URL]
+
+MCPHERRAN BUSINESS OPEN SOURCE LICENSE
+
+1. DEFINITIONS
+ 
+LICENSE REGISTRATION: A per-user Authorization ID
+
+THE ORIGINAL SOFTWARE: The software as provided to you.
+
+YOUR REVISION OF THE SOFTWARE: THE ORIGINAL SOFTWARE plus your addition of
+at least one significant feature and any other of your modifications to it.
+
+2. GENERAL USAGE RIGHTS and LIMITATIONS
+
+The license model of this license is per-user.
+
+The terms of this license apply to business and personal purposes.
+
+One user may use or modify THE ORIGINAL SOFTWARE on one or more computers for
+evaluation purposes.
+
+You may not distribute YOUR REVISION OF THE SOFTWARE, unless you have a 
+LICENSE REGISTRATION (see 3 below).
+
+You may NOT distribute THE ORIGINAL SOFTWARE, regardless of whether you
+have a LICENSE REGISTRATION.
+
+3. REGISTERED USE
+
+IF YOU HAVE A LICENSE REGISTRATION, then you may distribute YOUR REVISION OF
+THE SOFTWARE in binary (programs) and/or source code forms. This license does
+not require you to distribute source code. All distributions must include your
+own copyright and license terms. All distributions must also include the
+VENDOR LICENSE (see 6 below).
+
+4. TRANSFER
+
+A License Registration may be transferred. You may transfer the License
+Registration only if the transferee agrees to this license.
+
+After any transfer, you must promptly and permanently delete all of your copies
+of the software. The only exception to this, is that you may retain your
+modifications that are distinct from THE ORIGINAL SOFTWARE if the transferee
+agrees to that.
+
+5. NO LIABILITY
+
+By using this software, you agree that under no circumstances, shall the
+authors, copyright holders, or [Name], be liable for any consequences
+whatsoever associated with any form of usage of this software. This applies
+to all forms of the software, including source code and programs.
+
+6. VENDOR LICENSE
+
+Below is the VENDOR LICENSE (between the ...BEGIN... and ...END... lines). This
+VENDOR LICENSE must be included with your own license in all distributions.
+
+----- BEGIN VENDOR LICENSE -----
+
+This software contains and / or uses software that is Copyright 2025 [Name].
+Permanent rights have been granted to use the [Name] Software with the
+software that accompanies this license.
+
+By using this software, you agree that under no circumstances, shall the
+authors, copyright holders, or [Name], be liable for any consequences
+whatsoever associated with any form of usage of this software. This applies
+to all forms of the software, including source code and programs.
+
+----- END VENDOR LICENSE -----
